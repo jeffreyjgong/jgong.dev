@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/jgong.dev/static/css/main.31d6cfe0.css",
+    "main.js": "/jgong.dev/static/js/main.db3024fd.js",
+    "index.html": "/jgong.dev/index.html",
+    "main.db3024fd.js.map": "/jgong.dev/static/js/main.db3024fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.db3024fd.js"
+  ]
+}
