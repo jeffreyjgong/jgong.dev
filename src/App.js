@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <p>A work in progress ... for now, just a list of ideas I would like to see on a digital representation of myself.</p>
       </header>
-      <dl>
+      {/* <dl>
         <dt>Fitness</dt>
         <dd>- hook it up to the strava API, maybe on a cron job, and do cool things with that data</dd>
         <dd>- upcoming races / tris</dd>
@@ -30,7 +30,7 @@ function App() {
         <dt>Essays</dt>
         <dd>- because my thoughts are the most interesting thing in the world</dd>
       </dl>
-      <div>my eternal <a rel="noreferrer" target="_blank" href="https://www.poetryfoundation.org/poems/44892/eloisa-to-abelard">love letter</a> to the internet. so if you made it here - i love you!</div>
+      <div>my eternal <a rel="noreferrer" target="_blank" href="https://www.poetryfoundation.org/poems/44892/eloisa-to-abelard">love letter</a> to the internet. so if you made it here - i love you!</div> */}
     </div>
   );
 }
