@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "f04fa7c3-d19f-434d-a132-14d2ff9b59aa",
+		"name": "MLB Stats",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36552737"
+	},
+	"item": [
+		{
+			"name": "Awards",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://statsapi.mlb.com/api/v1/awards",
+					"protocol": "https",
+					"host": [
+						"statsapi",
+						"mlb",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awards"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
