@@ -1,6 +1,31 @@
 import './App.css';
+import React, { useEffect, useState } from 'react';
+import { Strava } from 'strava';
 
 function App() {
+  console.log(process.env);
+
+  const strava = new Strava({
+    client_id: process.env.REACT_APP_CLIENT_ID,
+    client_secret: process.env.REACT_APP_CLIENT_SECRET,
+    refresh_token: process.env.REACT_APP_REFRESH_TOKEN,
+  });
+
+  const [ activities, setActivities ] = useState([]);
+
+  useEffect(() => {
+    async function getActivities() {
+      try {
+        const ret_activities = await strava.activities.getLoggedInAthleteActivities({per_page: 200});
+        console.log(ret_activities);
+        setActivities(ret_activities);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+    getActivities();
+  }, []);
+
   return (
     <div className="App">
       <header className="App-header">
@@ -9,6 +34,7 @@ function App() {
       <dl>
         <dt>Fitness</dt>
         <dd>- hook it up to the strava API, maybe on a cron job, and do cool things with that data</dd>
+        <dd>- (using the strava api) here's how many activities i have: <span style={{color: "red"}}>{activities.length}</span></dd>
         <dd>- upcoming races / tris</dd>
         <dd>- current pbs</dd>
         <dt>Travel</dt>
