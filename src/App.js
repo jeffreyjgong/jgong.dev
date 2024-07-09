@@ -17,11 +17,12 @@ function App() {
         <dt>Research</dt>
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
+        <dd>- arxiv api maybe</dd>
         <dt>professional</dt>
         <dd>- if youre looking at this you might as well give me a job so here's my resume</dd>
         <dd>- schooling and other shenanigans</dd>
         <dt>Personal passion projects</dt>
-        <dd>- MONEYBALL MONEYBALL</dd>
+        <dd>- tunneling model</dd>
         <dd>- engineering shed</dd>
         <dd>- amateur competitive coding</dd>
         <dt>Film</dt>
@@ -29,7 +30,7 @@ function App() {
         <dt>Books</dt>
         <dd>- a virtual library of words that meant something to me. eventually should reflect my future physical library</dd>
         <dt>Music</dt>
-        <dd>- electric guitar solos are so sexy</dd>
+        <dd>- working on some electric guitar solos</dd>
         <dt>Essays</dt>
         <dd>- because my thoughts are the most interesting thing in the world</dd>
       </dl>
