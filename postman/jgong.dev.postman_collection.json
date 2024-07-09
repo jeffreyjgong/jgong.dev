@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "1fd0fc34-f10f-4e5f-a908-929ecb9cd969",
+		"name": "jgong.dev",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36552737"
+	},
+	"item": [
+		{
+			"name": "Get HTML",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jgong.dev",
+					"protocol": "https",
+					"host": [
+						"jgong",
+						"dev"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
