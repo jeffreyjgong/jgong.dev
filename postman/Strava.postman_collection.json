@@ -1,0 +1,115 @@
+{
+	"info": {
+		"_postman_id": "dfa48969-eb11-43ed-ab6a-e13648ef7e13",
+		"name": "Strava",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36552737"
+	},
+	"item": [
+		{
+			"name": "Current Authenticated Athlete",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.strava.com/api/v3/athlete",
+					"protocol": "https",
+					"host": [
+						"www",
+						"strava",
+						"com"
+					],
+					"path": [
+						"api",
+						"v3",
+						"athlete"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Refresh Token",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://www.strava.com/api/v3/oauth/token?client_id={{client_id}}&client_secret={{client_secret}}&grant_type=refresh_token&refresh_token={{refresh_token}}",
+					"protocol": "https",
+					"host": [
+						"www",
+						"strava",
+						"com"
+					],
+					"path": [
+						"api",
+						"v3",
+						"oauth",
+						"token"
+					],
+					"query": [
+						{
+							"key": "client_id",
+							"value": "{{client_id}}"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{client_secret}}"
+						},
+						{
+							"key": "grant_type",
+							"value": "refresh_token"
+						},
+						{
+							"key": "refresh_token",
+							"value": "{{refresh_token}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
