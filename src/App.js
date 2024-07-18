@@ -3,28 +3,26 @@ import React, { useEffect, useState } from 'react';
 import { Strava } from 'strava';
 
 function App() {
-  console.log(process.env);
+  // const strava = new Strava({
+  //   client_id: process.env.REACT_APP_CLIENT_ID,
+  //   client_secret: process.env.REACT_APP_CLIENT_SECRET,
+  //   refresh_token: process.env.REACT_APP_REFRESH_TOKEN,
+  // });
 
-  const strava = new Strava({
-    client_id: process.env.REACT_APP_CLIENT_ID,
-    client_secret: process.env.REACT_APP_CLIENT_SECRET,
-    refresh_token: process.env.REACT_APP_REFRESH_TOKEN,
-  });
+  // const [ activities, setActivities ] = useState([]);
 
-  const [ activities, setActivities ] = useState([]);
-
-  useEffect(() => {
-    async function getActivities() {
-      try {
-        const ret_activities = await strava.activities.getLoggedInAthleteActivities({per_page: 200});
-        console.log(ret_activities);
-        setActivities(ret_activities);
-      } catch (error) {
-        console.error(error);
-      }
-    }
-    getActivities();
-  }, []);
+  // useEffect(() => {
+  //   async function getActivities() {
+  //     try {
+  //       const ret_activities = await strava.activities.getLoggedInAthleteActivities({per_page: 200});
+  //       console.log(ret_activities);
+  //       setActivities(ret_activities);
+  //     } catch (error) {
+  //       console.error(error);
+  //     }
+  //   }
+  //   getActivities();
+  // }, []);
 
   return (
     <div className="App">
@@ -34,8 +32,8 @@ function App() {
       <dl>
         <dt>Fitness</dt>
         <dd>- hook it up to the strava API, maybe on a cron job, and do cool things with that data</dd>
-        <dd>- (using the strava api) here's how many activities i have: <span style={{color: "red"}}>{activities.length}</span></dd>
-        <dd>- upcoming races / tris</dd>
+        <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
+        <dd>- upcoming races / tris (Ironman Ohio 70.3 - July 21, 2024 and Faxon Law New Haven Half Marathon - September 2, 2024 and (maybe) Philadelphia Marathon - November 24, 2024)</dd>
         <dd>- current pbs</dd>
         <dt>Travel</dt>
         <dd>- hikes + national parks</dd>
