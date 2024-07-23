@@ -45,7 +45,7 @@ function App() {
         <dd>- things i would like to explore, see open problems in computational topology</dd>
         <dd>- arxiv api maybe</dd>
         <dt>professional</dt>
-        <dd>- if youre looking at this you might as well give me a job so here's my resume</dd>
+        <dd>- if youre looking at this you might as well give me a job so here's my <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/jeffreyjgong/blob/main/Resume_%20Jeffrey_Gong_Senior.pdf">resume</a></dd>
         <dd>- schooling and other shenanigans</dd>
         <dt>Personal passion projects</dt>
         <dd>- tunneling model</dd>
@@ -58,7 +58,7 @@ function App() {
         <dt>Music</dt>
         <dd>- working on some electric guitar solos</dd>
         <dt>Essays</dt>
-        <dd>- because my thoughts are the most interesting thing in the world</dd>
+        <dd>- because my thoughts are the most interesting thing ever and the world absolutely needs to know</dd>
       </dl>
       <div>my eternal <a rel="noreferrer" target="_blank" href="https://www.poetryfoundation.org/poems/44892/eloisa-to-abelard">love letter</a> to the internet. so if you made it here - &lt;3!</div>
     </div>
