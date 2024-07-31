@@ -33,8 +33,19 @@ function App() {
         <dt>Fitness</dt>
         <dd>- hook it up to the strava API, maybe on a cron job, and do cool things with that data</dd>
         <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
-        <dd>- upcoming races / tris (Faxon Law New Haven Half Marathon - September 2, 2024 and Philadelphia Marathon - November 24, 2024 and a TBD Ironman 140.6 in 2025)</dd>
-        <dd>- finished races Philly Love Run (half marathon) - 3/24/24: finished in 2:04:28, Ironman 70.3 Ohio - 7/21/24: finished in 6:16:09</dd>
+        <dd>- upcoming races / tris</dd>
+          <ul>
+            <li>Faxon Law New Haven Half Marathon - September 2, 2024</li>
+            <li>Toughman Northeast Collegiate Triathlon (Olympic Distance) - September 14, 2024</li>
+            <li>(TBD) Baltimore Triathlon Festival (Sprint Distance) - October 5-6, 2024</li>
+            <li>Philadelphia Marathon - November 24, 2024</li>
+            <li>(TBD) Ironman 140.6 - 2025</li>
+          </ul>
+        <dd>- finished races / tris</dd>
+          <ul>
+            <li>Philly Love Run (half marathon) - 3/24/24: finished in 2:04:28</li>
+            <li>Ironman 70.3 Ohio - 7/21/24: finished in 6:16:09</li>
+          </ul>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">IM Ohio 70.3 Race Report</a></dd>
         <dd>- current pbs</dd>
         <dt>Travel</dt>
