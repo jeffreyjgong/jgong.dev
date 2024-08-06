@@ -46,6 +46,12 @@ function App() {
             <li>Philly Love Run (half marathon) - 3/24/24: finished in 2:04:28</li>
             <li>Ironman 70.3 Ohio - 7/21/24: finished in 6:16:09</li>
           </ul>
+        <dd>- trying to get better at </dd>
+          <ul>
+            <li>Surfing (pipeline and shipstern bluff here i come)</li>
+            <li>Snowboarding</li>
+            <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
+          </ul>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">IM Ohio 70.3 Race Report</a></dd>
         <dd>- current pbs</dd>
         <dt>Travel</dt>
