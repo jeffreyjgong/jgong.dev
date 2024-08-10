@@ -78,6 +78,8 @@ function App() {
         <dd>- because my thoughts are the most interesting thing ever and the world absolutely needs to know</dd>
         <dt>Typing</dt>
         <dd>- monkeytype <a rel="noreferrer" target="_blank" href="https://monkeytype.com/profile/greatkingjeff">profile</a> - wpm pr: 175</dd>
+        <dt>Chess</dt>
+        <dd>- chess.com <a rel="noreferrer" target="_blank" href="https://www.chess.com/member/greatkingjeff">profile</a></dd>
       </dl>
       <div>my eternal <a rel="noreferrer" target="_blank" href="https://www.poetryfoundation.org/poems/44892/eloisa-to-abelard">love letter</a> to the internet. so if you made it here - &lt;3!</div>
     </div>
