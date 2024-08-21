@@ -48,7 +48,7 @@ function App() {
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
-            <li>Surfing (pipeline and shipstern bluff here i come)</li>
+            <li>Surfing (pipeline, shipstern bluff, and jeffreys bay here i come)</li>
             <li>Snowboarding</li>
             <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
           </ul>
