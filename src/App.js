@@ -69,7 +69,7 @@ function App() {
         <dd>- engineering shed</dd>
         <dd>- amateur competitive coding</dd>
         <dt>Film</dt>
-        <dd>- the goal is to write a movie review that wholly captures what i believe the movie was setting out to do, whether or not it accomplished that, and if it was worth doing</dd>
+        <dd>- my <a rel="noreferrer" target="_blank" href="https://letterboxd.com/auteurphile/">letterboxd</a></dd>
         <dt>Books</dt>
         <dd>- a virtual library of words that meant something to me. eventually should reflect my future physical library</dd>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://www.goodreads.com/user/show/181244410-jeffrey-gong">goodreads</a></dd>
