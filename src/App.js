@@ -63,11 +63,11 @@ function App() {
         <dd>- arxiv api maybe</dd>
         <dt>professional</dt>
         <dd>- if youre looking at this you might as well give me a job so here's my <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/jeffreyjgong/blob/main/Resume_%20Jeffrey_Gong_Senior.pdf">resume</a></dd>
+        <dd>- and my <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
         <dd>- schooling and other shenanigans</dd>
         <dt>Personal passion projects</dt>
         <dd>- tunneling model</dd>
-        <dd>- engineering shed</dd>
-        <dd>- amateur competitive coding</dd>
+        <dd>- splash esque</dd>
         <dt>Film</dt>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://letterboxd.com/auteurphile/">letterboxd</a></dd>
         <dt>Books</dt>
