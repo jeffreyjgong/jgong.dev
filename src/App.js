@@ -37,7 +37,7 @@ function App() {
           <ul>
             <li>Faxon Law New Haven Half Marathon - September 2, 2024</li>
             <li>Toughman Northeast Collegiate Triathlon (Olympic Distance) - September 14, 2024</li>
-            <li>(TBD) Baltimore Triathlon Festival (Sprint Distance) - October 5-6, 2024</li>
+            <li>Treasure Island Triathlon (Sprint) - September 29, 2024</li>
             <li>Philadelphia Marathon - November 24, 2024</li>
             <li>(TBD) Ironman 140.6 - 2025</li>
           </ul>
