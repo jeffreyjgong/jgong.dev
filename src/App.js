@@ -31,6 +31,7 @@ function App() {
       </header>
       <dl>
         <dt>Fitness</dt>
+        <dd>- my <a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213">strava</a></dd>
         <dd>- hook it up to the strava API, maybe on a cron job, and do cool things with that data</dd>
         <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
