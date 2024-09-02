@@ -39,7 +39,7 @@ function App() {
             <li>Toughman Northeast Collegiate Triathlon (Olympic Distance) - September 14, 2024</li>
             <li>Treasure Island Triathlon (Sprint) - September 29, 2024</li>
             <li>Philadelphia Marathon - November 24, 2024</li>
-            <li>(TBD) Ironman 140.6 - 2025</li>
+            <li>(TBD) Ironman 140.6 - 2025: Most likely Ironman Lake Placid</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
