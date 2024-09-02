@@ -36,7 +36,6 @@ function App() {
         <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>Faxon Law New Haven Half Marathon - September 2, 2024</li>
             <li>Toughman Northeast Collegiate Triathlon (Olympic Distance) - September 14, 2024</li>
             <li>Treasure Island Triathlon (Sprint) - September 29, 2024</li>
             <li>Philadelphia Marathon - November 24, 2024</li>
@@ -46,6 +45,7 @@ function App() {
           <ul>
             <li>Philly Love Run (half marathon) - 3/24/24: finished in 2:04:28</li>
             <li>Ironman 70.3 Ohio - 7/21/24: finished in 6:16:09</li>
+            <li>Faxon Law New Haven Half Marathon - 9/2/24: finished in 1:46:35</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
