@@ -76,8 +76,6 @@ function App() {
         <dd>- my <a rel="noreferrer" target="_blank" href="https://www.goodreads.com/user/show/181244410-jeffrey-gong">goodreads</a></dd>
         <dt>Music</dt>
         <dd>- working on some electric guitar solos</dd>
-        <dt>Essays</dt>
-        <dd>- because my thoughts are the most interesting thing ever and the world absolutely needs to know</dd>
         <dt>Typing</dt>
         <dd>- monkeytype <a rel="noreferrer" target="_blank" href="https://monkeytype.com/profile/greatkingjeff">profile</a> - wpm pr: 175</dd>
         <dt>Chess</dt>
