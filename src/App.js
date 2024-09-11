@@ -62,6 +62,7 @@ function App() {
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
         <dd>- arxiv api maybe</dd>
+        <dd>- currently: working on <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/discrete-morse-theory">senior thesis</a></dd>
         <dt>professional</dt>
         <dd>- if youre looking at this you might as well give me a job so here's my <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/jeffreyjgong/blob/main/Resume_%20Jeffrey_Gong_Senior.pdf">resume</a></dd>
         <dd>- and my <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
