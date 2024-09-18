@@ -42,10 +42,10 @@ function App() {
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
-            <li>Philly Love Run (half marathon) - 3/24/24: finished in 2:04:28</li>
-            <li>Ironman 70.3 Ohio - 7/21/24: finished in 6:16:09</li>
-            <li>Faxon Law New Haven Road Race (half marathon) - 9/2/24: finished in 1:46:35</li>
-            <li>Toughman Northeast Collegiate Triathlon (Olympic Distance) - 9/14/24: finished in 3:10:56</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/11028515730/overview">Philly Love Run</a> (half marathon) - 3/24/24: finished in 2:04:28</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">Ironman 70.3 Ohio</a> - 7/21/24: finished in 6:16:09</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12307138698/overview">Faxon Law New Haven Road Race</a> (half marathon) - 9/2/24: finished in 1:46:35</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/32293625">Toughman Northeast Collegiate Triathlon</a> (Olympic Distance) - 9/14/24: finished in 3:10:56</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
@@ -53,7 +53,7 @@ function App() {
             <li>Snowboarding</li>
             <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
           </ul>
-        <dd>- <a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">IM Ohio 70.3 Race Report</a></dd>
+        <dd>- </dd>
         <dd>- current pbs</dd>
         <dt>Travel</dt>
         <dd>- hikes + national parks</dd>
