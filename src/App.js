@@ -36,9 +36,9 @@ function App() {
         <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>Treasure Island Triathlon (Sprint) - September 29, 2024</li>
             <li>Philadelphia Marathon - November 24, 2024</li>
-            <li>(TBD) Ironman 140.6 - 2025: Most likely Ironman Lake Placid</li>
+            <li>(TBD) Turkey Trot - November 28, 2024</li>
+            <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered woohoo!)</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
@@ -46,6 +46,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">Ironman 70.3 Ohio</a> - 7/21/24: finished in 6:16:09</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12307138698/overview">Faxon Law New Haven Road Race</a> (half marathon) - 9/2/24: finished in 1:46:35</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/32293625">Toughman Northeast Collegiate Triathlon</a> (Olympic Distance) - 9/14/24: finished in 3:10:56</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12532346885/overview">Treasure Island Triathlon / Duathlon</a> (Sprint) - September 29, 2024: finished in 1:02:23</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
