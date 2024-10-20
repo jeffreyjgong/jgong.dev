@@ -38,6 +38,7 @@ function App() {
           <ul>
             <li>Philadelphia Marathon - November 24, 2024</li>
             <li>(TBD) Turkey Trot - November 28, 2024</li>
+            <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
             <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered woohoo!)</li>
           </ul>
         <dd>- finished races / tris</dd>
