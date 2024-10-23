@@ -39,7 +39,6 @@ function App() {
             <li>Philadelphia Marathon - November 24, 2024</li>
             <li>(TBD) Turkey Trot 5k - November 28, 2024</li>
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
-            <li>(TBD) Newport Half Marathon - April 19, 2025</li>
             <li>(TBD) Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025</li>
             <li>(TBD) Ironman 70.3 sometime in June, probably Happy Valley?</li>
             <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered woohoo!)</li>
@@ -69,6 +68,14 @@ function App() {
         <dd>- current pbs</dd>
         <dt>Travel</dt>
         <dd>- hikes + national parks</dd>
+          <ul>
+            <li>[x] Crater Lake (Oregon)</li>
+            <li>[x] Grand Canyon (Arizona)</li>
+            <li>[x] Lassen Volcanic (California)</li>
+            <li>[x] New River Gorge (West Virginia)</li>
+            <li>[x] Olympic (Washington)</li>
+            <li>[x] Shenandoah (Virginia)</li>
+          </ul>
         <dd>- countries + adventures</dd>
         <dt>Research</dt>
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
