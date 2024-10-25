@@ -38,6 +38,7 @@ function App() {
           <ul>
             <li>Philadelphia Marathon - November 24, 2024</li>
             <li>(TBD) Turkey Trot 5k - November 28, 2024</li>
+            <li>IRIS 5k - February 19, 2025</li>
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
             <li>(TBD) Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025</li>
             <li>(TBD) Ironman 70.3 sometime in June, probably Happy Valley?</li>
