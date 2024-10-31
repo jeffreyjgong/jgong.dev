@@ -41,7 +41,7 @@ function App() {
             <li>IRIS 5k - February 19, 2025</li>
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
             <li>(TBD) Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025</li>
-            <li>(TBD) Ironman 70.3 sometime in June, probably Happy Valley?</li>
+            <li>(TBD) Ironman 70.3 sometime in June, somewhere on the west coast maybe?? :)</li>
             <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered woohoo!)</li>
           </ul>
         <dd>- finished races / tris</dd>
