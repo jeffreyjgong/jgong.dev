@@ -78,11 +78,12 @@ function App() {
             <li>[x] Shenandoah (Virginia)</li>
           </ul>
         <dd>- countries + adventures</dd>
-        <dt>Research</dt>
+        <dt>Research + Pedagogy</dt>
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
         <dd>- arxiv api maybe</dd>
         <dd>- currently: working on <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/discrete-morse-theory">senior thesis</a></dd>
+        <dd>- also currently: teaching for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> and trying to decide on next semester's course</dd>
         <dt>professional</dt>
         <dd>- if youre looking at this you might as well give me a job so here's my</dd>
         <dd>- and my <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
