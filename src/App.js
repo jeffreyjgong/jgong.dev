@@ -83,8 +83,8 @@ function App() {
         <dd>- currently: working on <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/discrete-morse-theory">senior thesis</a></dd>
         <dd>- also currently: teaching for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> and trying to decide on next semester's course</dd>
         <dt>professional</dt>
-        <dd>- if youre looking at this you might as well give me a job so here's my</dd>
-        <dd>- and my <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
+        <dd>- i'm not actively looking for a job at the moment, but always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
+        <dd>- <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
         <dd>- schooling and other shenanigans</dd>
         <dt>Personal passion projects</dt>
         <dd>- tunneling model</dd>
