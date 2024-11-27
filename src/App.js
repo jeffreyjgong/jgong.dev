@@ -75,7 +75,23 @@ function App() {
             <li>[x] Olympic (Washington)</li>
             <li>[x] Shenandoah (Virginia)</li>
           </ul>
-        <dd>- countries + adventures</dd>
+        <dd>- countries (14)</dd>
+          <ul>
+            <li>[x] USA</li>
+            <li>[x] Canada</li>
+            <li>[x] Mexico</li>
+            <li>[x] Dominican Republic</li>
+            <li>[x] Ireland</li>
+            <li>[x] China</li>
+            <li>[x] Iceland</li>
+            <li>[x] Germany</li>
+            <li>[x] Czech Republic</li>
+            <li>[x] France</li>
+            <li>[x] Italy</li>
+            <li>[x] Netherlands</li>
+            <li>[x] Spain</li>
+            <li>[x] Vatican City</li>
+          </ul>
         <dt>Research + Pedagogy</dt>
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
