@@ -29,6 +29,7 @@ function App() {
       <header className="App-header">
         <p>A work in progress ... for now, just a list of ideas I would like to see on a digital representation of myself.</p>
       </header>
+      <img src="https://hitwebcounter.com/counter/counter.php?page=17631048&style=0007&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />
       <dl>
         <dt>Fitness</dt>
         <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/96339213/activity-summary/28ee508e20e35a9c5b42554ca9824c327a8e4850'></iframe>
