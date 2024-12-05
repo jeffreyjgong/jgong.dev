@@ -51,12 +51,12 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12532346885/overview">Treasure Island Triathlon / Duathlon</a> (Sprint) - 9/29/24: finished in 1:02:23, qualified for USA Triathlon Sprint/Olympic Nationals</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12975849026/overview">Philadelphia Marathon</a> - 11/24/24: finished in 4:11:03</li>
           </ul>
-        <dd>- races i want to do</dd>
+        <dd>- races/routes i want to do</dd>
           <ul>
             <li>Pittsburgh dirty dozen (cycling)</li>
             <li>new haven gp crit (cycling)</li>
             <li>swim across america (OWS)</li>
-            <li>some ultra (running)</li>
+            <li>great american rail trail (cycling)</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
