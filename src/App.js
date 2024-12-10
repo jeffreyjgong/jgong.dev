@@ -39,17 +39,18 @@ function App() {
           <ul>
             <li>IRIS 5k - February 19, 2025</li>
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
+            <li>Newport Half Marathon - April 19, 2025</li>
             <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025 (officially registered!)</li>
             <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered woohoo!)</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/11028515730/overview">Philly Love Run</a> (half marathon) - 3/24/24: finished in 2:04:28</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">Ironman 70.3 Ohio</a> - 7/21/24: finished in 6:16:09</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12307138698/overview">Faxon Law New Haven Road Race</a> (half marathon) - 9/2/24: finished in 1:46:35</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/32293625">Toughman Northeast Collegiate Triathlon</a> (Olympic Distance) - 9/14/24: finished in 3:10:56</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12532346885/overview">Treasure Island Triathlon / Duathlon</a> (Sprint) - 9/29/24: finished in 1:02:23, qualified for USA Triathlon Sprint/Olympic Nationals</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12975849026/overview">Philadelphia Marathon</a> - 11/24/24: finished in 4:11:03</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/11028515730/overview">Philly Love Run</a> (half marathon) - 3/24/24: finished in 2:04:28, goal: finish</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">Ironman 70.3 Ohio</a> - 7/21/24: finished in 6:16:09, goal: finish</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12307138698/overview">Faxon Law New Haven Road Race</a> (half marathon) - 9/2/24: finished in 1:46:35, goal: &lt;1:50</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/32293625">Toughman Northeast Collegiate Triathlon</a> (Olympic Distance) - 9/14/24: finished in 3:10:56, goal: &lt;3:00</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12532346885/overview">Treasure Island Triathlon / Duathlon</a> (Sprint) - 9/29/24: finished in 1:02:23, goal: none specific, qualified for USA Triathlon Sprint/Olympic Nationals</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12975849026/overview">Philadelphia Marathon</a> - 11/24/24: finished in 4:11:03, goal: &lt;3:50</li>
           </ul>
         <dd>- races/routes i want to do</dd>
           <ul>
