@@ -112,6 +112,18 @@ function App() {
         <dt>Books</dt>
         <dd>- a virtual library of words that meant something to me. eventually should reflect my future physical library</dd>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://www.goodreads.com/user/show/181244410-jeffrey-gong">goodreads</a></dd>
+        <dt>Sports</dt>
+        <dd>- MLB: Philadelphia Phillies</dd>
+        <dd>- NBA: Philadelphia 76ers</dd>
+        <dd>- NFL: Philadelphia Eagles</dd>
+        <dd>- NHL: Philadelphia Flyers / Seattle Kraken (undecided)</dd>
+        <dd>- MLS: Philadelphia Union / Seattle Sounders (undecided)</dd>
+        <dd>- Premier League: Crystal Palace</dd>
+        <dd>- Championship League: Leeds United</dd>
+        <dd>- Bundesliga: Eintracht Frankfurt</dd>
+        <dd>- LaLiga: Sevilla</dd>
+        <dd>- Ligue 1: Toulouse</dd>
+        <dd>- Serie A: Torino</dd>
         <dt>Music</dt>
         <dd>- working on some electric guitar solos</dd>
         <dt>Typing</dt>
