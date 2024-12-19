@@ -114,6 +114,8 @@ function App() {
         <dd>- my <a rel="noreferrer" target="_blank" href="https://www.goodreads.com/user/show/181244410-jeffrey-gong">goodreads</a></dd>
         <dt>Sports</dt>
         <dd>- MLB: Philadelphia Phillies</dd>
+        <dd>- MiLB Triple-A: Lehigh Valley Iron-Pigs</dd>
+        <dd>- MiLB Double-A: Richmond Flying Squirrels</dd>
         <dd>- NBA: Philadelphia 76ers</dd>
         <dd>- NFL: Philadelphia Eagles</dd>
         <dd>- NHL: Philadelphia Flyers / Seattle Kraken (undecided)</dd>
