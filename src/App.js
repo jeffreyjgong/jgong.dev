@@ -129,7 +129,7 @@ function App() {
         <dt>Music</dt>
         <dd>- working on some electric guitar solos</dd>
         <dt>Typing</dt>
-        <dd>- monkeytype <a rel="noreferrer" target="_blank" href="https://monkeytype.com/profile/jeffreyjgong">profile</a> - wpm pr: 175</dd>
+        <dd>- monkeytype <a rel="noreferrer" target="_blank" href="https://monkeytype.com/profile/jeffreyjgong">profile</a> - wpm pr: 181</dd>
         <dt>Chess</dt>
         <dd>- chess.com <a rel="noreferrer" target="_blank" href="https://www.chess.com/member/greatkingjeff">profile</a></dd>
       </dl>
