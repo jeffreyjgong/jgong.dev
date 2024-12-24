@@ -98,7 +98,7 @@ function App() {
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
         <dd>- arxiv api maybe</dd>
-        <dd>- currently: working on <a rel="noreferrer" target="_blank" href="https://github.com/jeffreyjgong/discrete-morse-theory">senior thesis</a></dd>
+        <dd>- currently thinking about: category theory</dd>
         <dd>- also currently: teaching for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> and trying to decide on next semester's course</dd>
         <dt>professional</dt>
         <dd>- i'm not actively looking for a job at the moment, but always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
