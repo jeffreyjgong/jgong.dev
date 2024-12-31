@@ -58,6 +58,7 @@ function App() {
             <li>new haven gp crit (cycling)</li>
             <li>swim across america (OWS)</li>
             <li>great american rail trail (cycling)</li>
+            <li>Escape from alcatraz (triathlon)</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
