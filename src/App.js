@@ -66,8 +66,6 @@ function App() {
             <li>Snowboarding</li>
             <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
           </ul>
-        <dd>- </dd>
-        <dd>- current pbs</dd>
         <dt>Travel</dt>
         <dd>- hikes + national parks</dd>
           <ul>
