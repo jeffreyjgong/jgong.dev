@@ -69,14 +69,14 @@ function App() {
         <dt>Travel</dt>
         <dd>- hikes + national parks ranking</dd>
           <ol>
-            <li>[x] Olympic (Washington)</li>
-            <li>[x] Grand Canyon (Arizona)</li>
-            <li>[x] Crater Lake (Oregon)</li>
-            <li>[x] Lassen Volcanic (California)</li>
-            <li>[x] Shenandoah (Virginia)</li>
-            <li>[x] Indiana Dunes (Indiana)</li>
-            <li>[x] New River Gorge (West Virginia)</li>
-            <li>[x] Cuyahoga Valley (Ohio)</li>
+            <li>Olympic (Washington)</li>
+            <li>Grand Canyon (Arizona)</li>
+            <li>Crater Lake (Oregon)</li>
+            <li>Lassen Volcanic (California)</li>
+            <li>Shenandoah (Virginia)</li>
+            <li>Indiana Dunes (Indiana)</li>
+            <li>New River Gorge (West Virginia)</li>
+            <li>Cuyahoga Valley (Ohio)</li>
           </ol>
         <dd>- countries (14)</dd>
           <ul>
