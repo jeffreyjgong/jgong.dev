@@ -67,15 +67,17 @@ function App() {
             <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
           </ul>
         <dt>Travel</dt>
-        <dd>- hikes + national parks</dd>
-          <ul>
-            <li>[x] Crater Lake (Oregon)</li>
-            <li>[x] Grand Canyon (Arizona)</li>
-            <li>[x] Lassen Volcanic (California)</li>
-            <li>[x] New River Gorge (West Virginia)</li>
+        <dd>- hikes + national parks ranking</dd>
+          <ol>
             <li>[x] Olympic (Washington)</li>
+            <li>[x] Grand Canyon (Arizona)</li>
+            <li>[x] Crater Lake (Oregon)</li>
+            <li>[x] Lassen Volcanic (California)</li>
             <li>[x] Shenandoah (Virginia)</li>
-          </ul>
+            <li>[x] Indiana Dunes (Indiana)</li>
+            <li>[x] New River Gorge (West Virginia)</li>
+            <li>[x] Cuyahoga Valley (Ohio)</li>
+          </ol>
         <dd>- countries (14)</dd>
           <ul>
             <li>[x] USA</li>
@@ -92,6 +94,7 @@ function App() {
             <li>[x] Netherlands</li>
             <li>[x] Spain</li>
             <li>[x] Vatican City</li>
+            <li>[x] Taiwan</li>
           </ul>
         <dt>Research + Pedagogy</dt>
         <dd>- to add some permanence to the ideas bouncing around in my head</dd>
@@ -117,7 +120,7 @@ function App() {
         <dd>- MiLB Double-A: Richmond Flying Squirrels</dd>
         <dd>- NBA: Philadelphia 76ers</dd>
         <dd>- NFL: Philadelphia Eagles</dd>
-        <dd>- NHL: Philadelphia Flyers / Seattle Kraken (undecided)</dd>
+        <dd>- NHL: Chicago Blackhawks</dd>
         <dd>- MLS: Philadelphia Union / Seattle Sounders (undecided)</dd>
         <dd>- Premier League: Crystal Palace</dd>
         <dd>- Championship League: Leeds United</dd>
