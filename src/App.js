@@ -67,7 +67,7 @@ function App() {
             <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
           </ul>
         <dt>Travel</dt>
-        <dd>- hikes + national parks ranking</dd>
+        <dd>- hikes + national parks ranking (not set in stone, will adapt as I revisit places)</dd>
           <ol>
             <li>Olympic (Washington)</li>
             <li>Grand Canyon (Arizona)</li>
