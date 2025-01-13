@@ -37,7 +37,7 @@ function App() {
         <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>IRIS 5k - February 19, 2025</li>
+            <li>IRIS 5k - February 9, 2025</li>
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
             <li>Newport Half Marathon - April 19, 2025</li>
             <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025 (officially registered!)</li>
