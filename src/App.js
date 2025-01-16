@@ -59,6 +59,7 @@ function App() {
             <li>swim across america (OWS)</li>
             <li>great american rail trail (cycling)</li>
             <li>Escape from alcatraz (triathlon)</li>
+            <li>biathlon</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
@@ -123,11 +124,6 @@ function App() {
         <dd>- NHL: Chicago Blackhawks</dd>
         <dd>- MLS: Philadelphia Union / Seattle Sounders (undecided)</dd>
         <dd>- Premier League: Crystal Palace</dd>
-        <dd>- Championship League: Leeds United</dd>
-        <dd>- Bundesliga: Eintracht Frankfurt</dd>
-        <dd>- LaLiga: Sevilla</dd>
-        <dd>- Ligue 1: Toulouse</dd>
-        <dd>- Serie A: Torino</dd>
         <dt>Music</dt>
         <dd>- working on some electric guitar solos</dd>
         <dt>Typing</dt>
