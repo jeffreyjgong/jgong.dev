@@ -33,8 +33,8 @@ function App() {
       <dl>
         <dt>Fitness</dt>
         <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/96339213/activity-summary/28ee508e20e35a9c5b42554ca9824c327a8e4850'></iframe>
-        <dd>- hook it up to the strava API, maybe on a cron job, and do cool things with that data</dd>
-        <dd>- (using the strava api) here's how many activities i have: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
+        <dd>- hook it up to the strava API, maybe on a cron job</dd>
+        <dd>- (using the strava api) here's how many activities ive done: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
@@ -52,7 +52,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12975849026/overview">Philadelphia Marathon</a> - 11/24/24: finished in 4:11:03, goal: &lt;3:50</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.athlinks.com/event/21233/results/Event/1103199/Course/2567906/Bib/1675">IRIS 5k</a> - 2/9/25: finished in 22:18, goal: &lt;22:00</li>
           </ul>
-        <dd>- races/routes i want to do</dd>
+        <dd>- races/routes on the bucket list</dd>
           <ul>
             <li>Pittsburgh dirty dozen (cycling)</li>
             <li>new haven gp crit (cycling)</li>
@@ -63,9 +63,9 @@ function App() {
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
-            <li>Surfing (pipeline, shipstern bluff, and jeffreys bay here i come)</li>
+            <li>Surfing (pipeline, shipstern bluff, and jeffreys bay)</li>
             <li>Snowboarding</li>
-            <li>skateboarding/longboarding, want to do one josh neumann-esque bomb on the longboard in my life</li>
+            <li>skateboarding/longboarding, e.g. a josh neumann-esque bomb on the longboard</li>
           </ul>
         <dt>Travel</dt>
         <dd>- hikes + national parks ranking (not set in stone, will adapt as I revisit places)</dd>
@@ -96,36 +96,22 @@ function App() {
             <li>[x] Spain</li>
             <li>[x] Vatican City</li>
             <li>[x] Taiwan</li>
+            <li>[x] Switzerland</li>
           </ul>
         <dt>Research + Pedagogy</dt>
-        <dd>- to add some permanence to the ideas bouncing around in my head</dd>
+        <dd>- to add some permanence to my ideas</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
         <dd>- arxiv api maybe</dd>
-        <dd>- currently thinking about: category theory</dd>
         <dd>- also currently: teaching for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> and trying to decide on next semester's course</dd>
         <dt>professional</dt>
         <dd>- i'm not actively looking for a job at the moment, but always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
-        <dd>- schooling and other shenanigans</dd>
-        <dt>Personal passion projects</dt>
-        <dd>- tunneling model</dd>
-        <dd>- splash esque</dd>
+        <dd>- schooling + other</dd>
         <dt>Film</dt>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://letterboxd.com/auteurphile/">letterboxd</a></dd>
         <dt>Books</dt>
-        <dd>- a virtual library of words that meant something to me. eventually should reflect my future physical library</dd>
+        <dd>- a virtual library of words that meant something to me</dd>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://www.goodreads.com/user/show/181244410-jeffrey-gong">goodreads</a></dd>
-        <dt>Sports</dt>
-        <dd>- MLB: Philadelphia Phillies</dd>
-        <dd>- MiLB Triple-A: Lehigh Valley Iron-Pigs</dd>
-        <dd>- MiLB Double-A: Richmond Flying Squirrels</dd>
-        <dd>- NBA: Philadelphia 76ers</dd>
-        <dd>- NFL: Philadelphia Eagles</dd>
-        <dd>- NHL: Chicago Blackhawks</dd>
-        <dd>- MLS: Philadelphia Union / Seattle Sounders (undecided)</dd>
-        <dd>- Premier League: Crystal Palace</dd>
-        <dt>Music</dt>
-        <dd>- working on some electric guitar solos</dd>
         <dt>Typing</dt>
         <dd>- monkeytype <a rel="noreferrer" target="_blank" href="https://monkeytype.com/profile/jeffreyjgong">profile</a> - wpm pr: 181</dd>
         <dt>Chess</dt>
