@@ -79,7 +79,7 @@ function App() {
             <li>New River Gorge (West Virginia)</li>
             <li>Cuyahoga Valley (Ohio)</li>
           </ol>
-        <dd>- countries (14)</dd>
+        <dd>- countries (15)</dd>
           <ul>
             <li>[x] USA</li>
             <li>[x] Canada</li>
