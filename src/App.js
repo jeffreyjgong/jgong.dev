@@ -74,6 +74,7 @@ function App() {
             <li>Grand Canyon (Arizona)</li>
             <li>Crater Lake (Oregon)</li>
             <li>Lassen Volcanic (California)</li>
+            <li>Volcano National Park (Hawaii)</li>
             <li>Indiana Dunes (Indiana)</li>
             <li>Shenandoah (Virginia)</li>
             <li>New River Gorge (West Virginia)</li>
