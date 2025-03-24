@@ -40,7 +40,7 @@ function App() {
             <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
             <li>Newport Half Marathon - April 19, 2025</li>
             <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025 (officially registered!)</li>
-            <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered woohoo!)</li>
+            <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered!)</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
