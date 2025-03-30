@@ -64,8 +64,9 @@ function App() {
         <dd>- trying to get better at </dd>
           <ul>
             <li>Surfing (pipeline, shipstern bluff, and jeffreys bay)</li>
-            <li>Snowboarding</li>
+            <li>Snowboarding and skiing</li>
             <li>skateboarding/longboarding, e.g. a josh neumann-esque bomb on the longboard</li>
+            <li>outdoor climbing</li>
           </ul>
         <dt>Travel</dt>
         <dd>- hikes + national parks ranking (not set in stone, will adapt as I revisit places)</dd>
