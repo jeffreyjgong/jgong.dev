@@ -37,7 +37,6 @@ function App() {
         <dd>- (using the strava api) here's how many activities ive done: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>2025 USA Triathlon Collegiate Club National Championships (Miami) - March 29, 2025</li>
             <li>Newport Half Marathon - April 19, 2025</li>
             <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025 (officially registered!)</li>
             <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered!)</li>
@@ -51,6 +50,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12532346885/overview">Treasure Island Triathlon / Duathlon</a> (Sprint) - 9/29/24: finished in 1:02:23, goal: none specific, qualified for USA Triathlon Sprint/Olympic Nationals</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12975849026/overview">Philadelphia Marathon</a> - 11/24/24: finished in 4:11:03, goal: &lt;3:50</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.athlinks.com/event/21233/results/Event/1103199/Course/2567906/Bib/1675">IRIS 5k</a> - 2/9/25: finished in 22:18, goal: &lt;22:00</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14021028774/overview">USA Triathlon Collegiate Club National Championships</a> (Olympic Distance) - 3/29/25: finished in 2:51:55, goal: &lt;3:00</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
           <ul>
