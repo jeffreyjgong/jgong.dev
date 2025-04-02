@@ -38,8 +38,8 @@ function App() {
         <dd>- upcoming races / tris</dd>
           <ul>
             <li>Newport Half Marathon - April 19, 2025</li>
-            <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025 (officially registered!)</li>
-            <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid (officially registered!)</li>
+            <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025</li>
+            <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
