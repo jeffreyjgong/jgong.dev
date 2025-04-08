@@ -55,15 +55,15 @@ function App() {
         <dd>- races/routes on the bucket list</dd>
           <ul>
             <li>Pittsburgh dirty dozen (cycling)</li>
-            <li>new haven gp crit (cycling)</li>
+            <li>crit / cat (cycling)</li>
+            <li>velodrome track (cycling)</li>
             <li>swim across america (OWS)</li>
-            <li>great american rail trail (cycling)</li>
             <li>Escape from alcatraz (triathlon)</li>
             <li>biathlon</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
-            <li>Surfing (pipeline, shipstern bluff, and jeffreys bay)</li>
+            <li>Surfing (pipeline, shipstern bluff, jeffreys bay, mavericks)</li>
             <li>Snowboarding and skiing</li>
             <li>skateboarding/longboarding, e.g. a josh neumann-esque bomb on the longboard</li>
             <li>outdoor climbing</li>
