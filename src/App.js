@@ -37,7 +37,6 @@ function App() {
         <dd>- (using the strava api) here's how many activities ive done: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>Jack Bristol Lake Waramaug Ultra Race 50mi - April 27, 2025</li>
             <li>Ironman 140.6 - July 20, 2025: Ironman Lake Placid</li>
           </ul>
         <dd>- finished races / tris</dd>
@@ -51,6 +50,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.athlinks.com/event/21233/results/Event/1103199/Course/2567906/Bib/1675">IRIS 5k</a> - 2/9/25: finished in 22:18, goal: &lt;22:00</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14021028774/overview">USA Triathlon Collegiate Club National Championships</a> (Olympic Distance) - 3/29/25: finished in 2:51:55, goal: &lt;3:00</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
           <ul>
