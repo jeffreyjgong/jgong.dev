@@ -81,7 +81,7 @@ function App() {
             <li>New River Gorge (West Virginia)</li>
             <li>Cuyahoga Valley (Ohio)</li>
           </ol>
-        <dd>- countries (15)</dd>
+        {/* <dd>- countries (15)</dd>
           <ul>
             <li>[x] USA</li>
             <li>[x] Canada</li>
@@ -99,7 +99,7 @@ function App() {
             <li>[x] Vatican City</li>
             <li>[x] Taiwan</li>
             <li>[x] Switzerland</li>
-          </ul>
+          </ul> */}
         <dt>Research + Pedagogy</dt>
         <dd>- to add some permanence to my ideas</dd>
         <dd>- things i would like to explore, see open problems in computational topology</dd>
@@ -119,7 +119,6 @@ function App() {
         <dt>Chess</dt>
         <dd>- chess.com <a rel="noreferrer" target="_blank" href="https://www.chess.com/member/greatkingjeff">profile</a></dd>
       </dl>
-      <div>my eternal <a rel="noreferrer" target="_blank" href="https://www.poetryfoundation.org/poems/44892/eloisa-to-abelard">love letter</a> to the internet. so if you made it here - &lt;3!</div>
     </div>
   );
 }
