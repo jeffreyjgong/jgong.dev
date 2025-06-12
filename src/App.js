@@ -72,6 +72,7 @@ function App() {
         <dd>- hikes + national parks ranking (not set in stone, will adapt as I revisit places)</dd>
           <ol>
             <li>Olympic (Washington)</li>
+            <li>Yosemite (California)</li>
             <li>Grand Canyon (Arizona)</li>
             <li>Crater Lake (Oregon)</li>
             <li>Lassen Volcanic (California)</li>
