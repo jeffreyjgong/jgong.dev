@@ -41,7 +41,7 @@ function App() {
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
-            <li>Year 1</li>
+            <li>Year 1 (goal: go far)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/11028515730/overview">Philly Love Run</a> (half marathon) - 3/24/24: finished in 2:04:28, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">Ironman 70.3 Ohio</a> - 7/21/24: finished in 6:16:09, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12307138698/overview">Faxon Law New Haven Road Race</a> (half marathon) - 9/2/24: finished in 1:46:35, goal: &lt;1:50</li>
@@ -53,7 +53,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
             <li>Ironman 140.6 Lake Placid - 7/20/25: finished in 14:12:49, goal: finish, optimistic goal: &lt;13:00</li>
-            <li>Year 2</li>
+            <li>Year 2 (goal: go ?)</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
           <ul>
