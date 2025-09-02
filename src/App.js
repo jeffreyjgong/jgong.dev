@@ -110,9 +110,10 @@ function App() {
         <dd>- arxiv api maybe</dd>
         <dd>- also taught for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> on: New/Gonzo Journalism, Heat Equation, and General Relativity</dd>
         <dt>professional</dt>
+        <dd>I'm a part of the second cohort of APMs (Associate Product Managers) at Databricks, working on intelligent Lakehouse storage</dd>
         <dd>- i'm not actively looking for a job at the moment, but always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
-        <dd>- schooling + other</dd>
+        <dd>- schooling + other: I graduated from Yale in 2025 with a joint CS+Math degree</dd>
         <dt>Film</dt>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://letterboxd.com/auteurphile/">letterboxd</a></dd>
         <dt>Books</dt>
