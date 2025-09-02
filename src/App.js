@@ -81,8 +81,8 @@ function App() {
             <li>Lassen Volcanic (California)</li>
             <li>Volcano National Park (Hawaii)</li>
             <li>Indiana Dunes (Indiana)</li>
-            <li>Shenandoah (Virginia)</li>
             <li>New River Gorge (West Virginia)</li>
+            <li>Shenandoah (Virginia)</li>
             <li>Cuyahoga Valley (Ohio)</li>
           </ol>
         {/* <dd>- countries (15)</dd>
