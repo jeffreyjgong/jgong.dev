@@ -53,7 +53,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14021028774/overview">USA Triathlon Collegiate Club National Championships</a> (Olympic Distance) - 3/29/25: finished in 2:51:55, goal: &lt;3:00</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
-            <li>Ironman 140.6 Lake Placid - 7/20/25: finished in 14:12:49, goal: finish, optimistic goal: &lt;13:00</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/40169081">Ironman 140.6 Lake Placid</a> - 7/20/25: finished in 14:12:49, goal: finish</li>
             <li>Year 2 (goal: go ?)</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
