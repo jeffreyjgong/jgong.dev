@@ -31,18 +31,18 @@ function App() {
       </header>
       <img src="https://hitwebcounter.com/counter/counter.php?page=17631048&style=0007&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />
       <dl>
-        <dt>Fitness</dt>
+        <dt>Sport</dt>
         <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/96339213/activity-summary/28ee508e20e35a9c5b42554ca9824c327a8e4850'></iframe>
         <dd>- hook it up to the strava API, maybe on a cron job</dd>
         <dd>- (using the strava api) here's how many activities ive done: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>in stealth</li>
+            <li>IM 70.3 La Quinta - 12/7/25</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
-            <li>Year 1 (goal: go far)</li>
+            <li>Year 1</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/11028515730/overview">Philly Love Run</a> (half marathon) - 3/24/24: finished in 2:04:28, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/31110279">Ironman 70.3 Ohio</a> - 7/21/24: finished in 6:16:09, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/12307138698/overview">Faxon Law New Haven Road Race</a> (half marathon) - 9/2/24: finished in 1:46:35, goal: &lt;1:50</li>
@@ -54,7 +54,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/40169081">Ironman 140.6 Lake Placid</a> - 7/20/25: finished in 14:12:49, goal: finish</li>
-            <li>Year 2 (goal: go ?)</li>
+            <li>Year 2</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
           <ul>
@@ -67,13 +67,21 @@ function App() {
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
-            <li>Surfing (pipeline, shipstern bluff, jeffreys bay, mavericks)</li>
+            <li>Surfing (mavericks, winter OB)</li>
             <li>Snowboarding and skiing</li>
             <li>skateboarding/longboarding, e.g. a josh neumann-esque bomb on the longboard</li>
             <li>outdoor climbing</li>
+            <li>swimming and rowing (dolphin's club please let me in)</li>
+          </ul>
+        <dd>- other sports</dd>
+          <ul>
+            <li>baseball, pitched and played 2nd for college club ball and high school. can switch hit and somewhat switch throw. </li>
+            <li>pole vault, one high school season</li>
+            <li>cornhole. second best cornhole player in college.</li>
+            <li>soccer, best IM goalkeeper for saybrook</li>
           </ul>
         <dt>Travel</dt>
-        <dd>- hikes + national parks ranking (not set in stone, will adapt as I revisit places)</dd>
+        <dd>- national parks ranking (not set in stone, will adapt as I revisit places) done: 11/63</dd>
           <ol>
             <li>Olympic (Washington)</li>
             <li>Yosemite (California)</li>
@@ -113,9 +121,10 @@ function App() {
         <dd>- also taught for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> on: New/Gonzo Journalism, Heat Equation, and General Relativity</dd>
         <dt>professional</dt>
         <dd>- I'm a part of the second ever cohort of APMs (Associate Product Managers) at Databricks, working on intelligent Lakehouse storage</dd>
-        <dd>- i'm not actively looking for a job at the moment, but always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
+        <dd>- I used to work as a software engineer for [Riot Games, Philadelphia Phillies, Boston Quantum, CarMax, EsurgiBiotech] where I worked on [Rust in-house source control, player development and modeling, API for quantum currency arbitrage, internal tooling, and embedded physical therapy software]</dd>
+        <dd>- I'm always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
-        <dd>- schooling + other: I graduated from Yale in 2025 with a joint CS+Math degree</dd>
+        <dd>- schooling + other: I graduated from Yale in 2025 with a joint CS+Math degree, I graduated from Methacton High School in 2021.</dd>
         <dt>Film</dt>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://letterboxd.com/auteurphile/">letterboxd</a></dd>
         <dt>Books</dt>
