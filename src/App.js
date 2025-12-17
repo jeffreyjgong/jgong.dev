@@ -38,7 +38,7 @@ function App() {
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>IM 70.3 La Quinta - 12/7/25</li>
+            <li>Escape from Alcatraz Triathlon - </li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
@@ -54,6 +54,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/40169081">Ironman 140.6 Lake Placid</a> - 7/20/25: finished in 14:12:49, goal: finish</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/16680164022/overview">Ironman 70.3 La Quinta</a> - 12/7/25: finished in 5:31:25, goal: &lt;5:30</li>
             <li>Year 2</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
@@ -62,7 +63,6 @@ function App() {
             <li>crit / cat (cycling)</li>
             <li>velodrome track (cycling)</li>
             <li>swim across america (OWS)</li>
-            <li>Escape from alcatraz (triathlon)</li>
             <li>biathlon</li>
           </ul>
         <dd>- trying to get better at </dd>
@@ -80,6 +80,13 @@ function App() {
             <li>cornhole. second best cornhole player in college.</li>
             <li>soccer, best IM goalkeeper for saybrook</li>
           </ul>
+        <dd>- bikes</dd>
+          <ul>
+            <li>[retired] 2010-2014 Cervelo P2 Rim MK1 "Kelley"</li>
+            <li>2010 Trek Alpha 2.3 "Alpha"</li>
+            <li>Quintana Roo X-PR "Roo"</li>
+            <li>looking for a fixie, a track bike, and a better road bike to round out the squad</li>
+          </ul>
         <dt>Travel</dt>
         <dd>- national parks ranking (not set in stone, will adapt as I revisit places) done: 11/63</dd>
           <ol>
@@ -87,6 +94,7 @@ function App() {
             <li>Yosemite (California)</li>
             <li>Crater Lake (Oregon)</li>
             <li>Lassen Volcanic (California)</li>
+            <li>Joshua Tree National Park (California)</li>
             <li>Pinnacles National Park (California)</li>
             <li>Grand Canyon (Arizona)</li>
             <li>Volcano National Park (Hawaii)</li>
@@ -120,7 +128,7 @@ function App() {
         <dd>- arxiv api maybe</dd>
         <dd>- also taught for <a rel="noreferrer" target="_blank" href="https://yale.learningu.org/teach/teachers/jeffreyjgong/bio.html">Splash</a> on: New/Gonzo Journalism, Heat Equation, and General Relativity</dd>
         <dt>professional</dt>
-        <dd>- I'm a part of the second ever cohort of APMs (Associate Product Managers) at Databricks, working on intelligent Lakehouse storage</dd>
+        <dd>- I'm a part of the second cohort of APMs (Associate Product Managers) at Databricks, working on intelligent Lakehouse storage</dd>
         <dd>- I used to work as a software engineer for [Riot Games, Philadelphia Phillies, Boston Quantum, CarMax, EsurgiBiotech] where I worked on [Rust in-house source control, player development and modeling, API for quantum currency arbitrage, internal tooling, and embedded physical therapy software]</dd>
         <dd>- I'm always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
