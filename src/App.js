@@ -38,7 +38,7 @@ function App() {
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>Escape from Alcatraz Triathlon - </li>
+            <li>Escape from Alcatraz Triathlon - 6/7/26</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
@@ -54,7 +54,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/40169081">Ironman 140.6 Lake Placid</a> - 7/20/25: finished in 14:12:49, goal: finish</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/16680164022/overview">Ironman 70.3 La Quinta</a> - 12/7/25: finished in 5:31:25, goal: &lt;5:30</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/16680164022/overview">Ironman 70.3 La Quinta</a> - 12/7/25: finished in 5:31:25, goal: &lt;5:30, 2025 all-world athlete bronze</li>
             <li>Year 2</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
@@ -71,21 +71,21 @@ function App() {
             <li>Snowboarding and skiing</li>
             <li>skateboarding/longboarding, e.g. a josh neumann-esque bomb on the longboard</li>
             <li>outdoor climbing</li>
-            <li>swimming and rowing (dolphin's club please let me in)</li>
+            <li>swimming and rowing and sailing</li>
           </ul>
         <dd>- other sports</dd>
           <ul>
             <li>baseball, pitched and played 2nd for college club ball and high school. can switch hit and somewhat switch throw. </li>
             <li>pole vault, one high school season</li>
             <li>cornhole. second best cornhole player in college.</li>
-            <li>soccer, best IM goalkeeper for saybrook</li>
+            <li>soccer, IM goalkeeper</li>
           </ul>
         <dd>- bikes</dd>
           <ul>
-            <li>[retired] 2010-2014 Cervelo P2 Rim MK1 "Kelley"</li>
+            <li>[retired] 2010-2014 Cervelo P2 Rim MK1 "Kellie"</li>
             <li>2010 Trek Alpha 2.3 "Alpha"</li>
             <li>Quintana Roo X-PR "Roo"</li>
-            <li>looking for a fixie, a track bike, and a better road bike to round out the squad</li>
+            <li>looking for a fixie, a track bike, and a racing road bike to round out the squad</li>
           </ul>
         <dt>Travel</dt>
         <dd>- national parks ranking (not set in stone, will adapt as I revisit places) done: 11/63</dd>
@@ -132,7 +132,7 @@ function App() {
         <dd>- I used to work as a software engineer for [Riot Games, Philadelphia Phillies, Boston Quantum, CarMax, EsurgiBiotech] where I worked on [Rust in-house source control, player development and modeling, API for quantum currency arbitrage, internal tooling, and embedded physical therapy software]</dd>
         <dd>- I'm always available to hear about interesting projects (<a href="mailto:jeffrey.gong7@gmail.com">email me</a>)</dd>
         <dd>- <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/jeffrey-gong7/">linkedin</a></dd>
-        <dd>- schooling + other: I graduated from Yale in 2025 with a joint CS+Math degree, I graduated from Methacton High School in 2021.</dd>
+        <dd>- schooling + other: I graduated from Yale in 2025 with a joint CS+Math degree, I graduated from Methacton High School as valedictorian in 2021.</dd>
         <dt>Film</dt>
         <dd>- my <a rel="noreferrer" target="_blank" href="https://letterboxd.com/auteurphile/">letterboxd</a></dd>
         <dt>Books</dt>
