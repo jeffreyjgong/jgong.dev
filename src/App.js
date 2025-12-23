@@ -38,6 +38,7 @@ function App() {
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
+            <li>Napa valley spring olympic triathlon - 4/11/26</li>
             <li>Escape from Alcatraz Triathlon - 6/7/26</li>
           </ul>
         <dd>- finished races / tris</dd>
