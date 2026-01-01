@@ -44,6 +44,7 @@ function App() {
             <li>Escape from Alcatraz Triathlon - 6/7/26</li>
             <li>[TBD] Ironman 70.3 Santa Cruz - 9/13/26</li>
             <li>Ironman California - 10/18/26</li>
+            <li>[TBD] California International Marathon - 12/6/26</li>
           </ul>
         <dd>- finished races / tris</dd>
           <ul>
