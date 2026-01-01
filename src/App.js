@@ -70,6 +70,7 @@ function App() {
             <li>velodrome track (cycling)</li>
             <li>swim across america (OWS)</li>
             <li>biathlon</li>
+            <li>trans tahoe relay / tahoe marathon swim</li>
           </ul>
         <dd>- trying to get better at </dd>
           <ul>
