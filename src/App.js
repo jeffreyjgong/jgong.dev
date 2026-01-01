@@ -40,7 +40,9 @@ function App() {
           <ul>
             <li>Stanford Treeathlon - 2/14/26</li>
             <li>Napa valley spring olympic triathlon - 4/11/26</li>
+            <li>[TBD] Wildflower Experience Long Course - 5/3/26</li>
             <li>Escape from Alcatraz Triathlon - 6/7/26</li>
+            <li>[TBD] Ironman 70.3 Santa Cruz - 9/13/26</li>
             <li>Ironman California - 10/18/26</li>
           </ul>
         <dd>- finished races / tris</dd>
