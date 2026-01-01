@@ -38,6 +38,7 @@ function App() {
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
+            <li>Stanford Treeathlon - 2/14/26</li>
             <li>Napa valley spring olympic triathlon - 4/11/26</li>
             <li>Escape from Alcatraz Triathlon - 6/7/26</li>
             <li>Ironman California - 10/18/26</li>
@@ -56,7 +57,7 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14223494771/overview">Newport Half Marathon</a> - 4/19/25: finished in 1:41:06, goal: &lt;1:40 (disclaimer: sick)</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/14306896889/overview">Jack Bristol Lake Waramaug Ultramarathon (50 mi)</a> - 4/27/25: finished in 10:45:06, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/40169081">Ironman Lake Placid</a> - 7/20/25: finished in 14:12:49, goal: finish</li>
-            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/16680164022/overview">Ironman 70.3 La Quinta</a> - 12/7/25: finished in 5:31:25, goal: &lt;5:30, 2025 all-world athlete bronze</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/16680164022/overview">Ironman 70.3 La Quinta</a> - 12/7/25: finished in 5:31:25, goal: &lt;5:30, awa bronze</li>
             <li>Year 2</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
