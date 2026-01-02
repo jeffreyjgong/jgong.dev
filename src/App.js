@@ -33,8 +33,8 @@ function App() {
       <dl>
         <dt>Sport</dt>
         <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/96339213/activity-summary/28ee508e20e35a9c5b42554ca9824c327a8e4850'></iframe>
-        <dd>- hook it up to the strava API, maybe on a cron job</dd>
-        <dd>- (using the strava api) here's how many activities ive done: coming soon on prod{/*<span style={{color: "red"}}>{activities.length}</span>*/}</dd>
+        {/* <dd>- hook it up to the strava API, maybe on a cron job</dd> */}
+        {/* <dd>- (using the strava api) here's how many activities ive done: coming soon on prod<span style={{color: "red"}}>{activities.length}</span></dd> */}
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
