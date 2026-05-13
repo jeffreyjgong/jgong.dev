@@ -38,8 +38,6 @@ function App() {
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>Napa valley spring olympic triathlon - 4/11/26</li>
-            <li>Wildflower Experience Olympic - 5/2/26</li>
             <li>Escape from Alcatraz Triathlon - 6/7/26</li>
             <li>Ironman 70.3 Santa Cruz - 9/13/26</li>
             <li>Ironman California - 10/18/26</li>
@@ -61,8 +59,9 @@ function App() {
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/athletes/96339213/posts/40169081">Ironman Lake Placid</a> - 7/20/25: finished in 14:12:49, goal: finish</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/16680164022/overview">Ironman 70.3 La Quinta</a> - 12/7/25: finished in 5:31:25, goal: &lt;5:30, awa bronze</li>
             <li>Year 2</li>
-            <li>Stanford Treeathlon - 2/14/26:mental DNF</li>
-            <li>Napa Valley spring oly - 4/11/26: finished in 2:53:54</li>
+            <li>Stanford Treeathlon (sprint) - 2/14/26: mental DNF</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/18071287824/overview">Napa Valley spring Tri</a> (olympic distance) - 4/11/26: finished in 2:53:54</li>
+            <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/18364806950/overview">Wildflower</a> (olympic distance) - 5/3/26: finished in 3:02:59</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
           <ul>
@@ -96,7 +95,7 @@ function App() {
             <li>looking for a fixie, a track bike, and a racing road bike to round out the squad</li>
           </ul>
         <dt>Travel</dt>
-        <dd>- national parks ranking (not set in stone, will adapt as I revisit places) done: 11/63</dd>
+        <dd>- national parks ranking (not set in stone, will adapt as I revisit places) done: 12/63</dd>
           <ol>
             <li>Olympic (Washington)</li>
             <li>Yosemite (California)</li>
