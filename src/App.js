@@ -38,7 +38,6 @@ function App() {
         <dd>- I used to race for the Yale Triathlon team, I now race with the Golden Gate Triathlon Club in SF</dd>
         <dd>- upcoming races / tris</dd>
           <ul>
-            <li>Escape from Alcatraz Triathlon - 6/7/26</li>
             <li>Ironman 70.3 Santa Cruz - 9/13/26</li>
             <li>Ironman California - 10/18/26</li>
             <li>California International Marathon - 12/6/26</li>
@@ -62,6 +61,7 @@ function App() {
             <li>Stanford Treeathlon (sprint) - 2/14/26: mental DNF</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/18071287824/overview">Napa Valley spring Tri</a> (olympic distance) - 4/11/26: finished in 2:53:54</li>
             <li><a rel="noreferrer" target="_blank" href="https://www.strava.com/activities/18364806950/overview">Wildflower</a> (olympic distance) - 5/3/26: finished in 3:02:59</li>
+            <li>Escape from Alcatraz Tri - 6/7/26: finished in 3:05:20</li>
           </ul>
         <dd>- races/routes on the bucket list</dd>
           <ul>
